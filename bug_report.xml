@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<ID>12345</ID>
+<title>the cart button on the page is not clickable https://11111.club</title>
+<Expected_result>When you click on the basket icon, a page with the previously added product will open</Expected_result>
+<Actual_result>When you click on the basket icon, nothing happens, the icon is not clickable</Actual_result>
+<Steps_to_reproduce>
+    <steps1>Open https://222.club</steps1>
+    <steps2>Add any product to the cart</steps2>
+    <steps3>Go to the payment page https://11111.club</steps3>
+    <steps4>Click on the trash can icon</steps4>
+</Steps_to_reproduce>
+<Severity>Minor</Severity>
+<Priority>Medium</Priority>
+<Environment>Google Chrome Version 96.0.4664.55 (Official assembly),(x86_64)</Environment>
