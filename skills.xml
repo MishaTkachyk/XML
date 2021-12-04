@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Course_program>
+<Cours1>Basic theory(What is testing,bug-reports,documentation,kinds,methods,testing directions,SDLC,STLC)</Cours1>
+<Cours2>What is client-server architecture</Cours2>
+<Cours3>Server request methods</Cours3>
+<Cours4>Answers server</Cours4>
+<Cours5>Request and response structures</Cours5>
+<Cours6>What JSON, XML. Their structure</Cours6>
+<Cours7>Testing API</Cours7>
+<Cours8>Withdrawal and reading logs</Cours8>
+<Cours9>Postman, Fidler</Cours9>
+<Cours10>VPN.(How it works, why you need it, how to use it, tool options)</Cours10>
+<Cours11>Dev Tools web browsers (Google Chrome, FireFox)</Cours11>
+<Cours12>Mobile testing</Cours12>
+<Cours13>Peculiarity iOS,Android,guidelines</Cours13>
+<Cours14>Building iOS apps with Xcode</Cours14>
+<Cours15>Building Android applications on Android Studio</Cours15>
+<Cours16>Interception of mobile traffic (sniffing) across Charles</Cours16>
+<Cours17>Setting a proxy on iOS and Android</Cours17>
+<Cours18>Command line (terminal) Linux Ubuntu. Copy, create, view, move files on servers without a GUI</Cours18>
+<Cours19>Simple bash scripting, automation of routine tasks on the server</Cours19>
+<Cours20>Access to remote servers</Cours20>
+<Cours21>The basics SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join</Cours21>
+<Cours22>Git</Cours22>
+<Cours23>Jmeter</Cours23>
+<Cours24>Scrum development methodology</Cours24>
+<Cours25>Python.Creating your own client-server application</Cours25>
+</Course_program>
